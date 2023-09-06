@@ -11,7 +11,7 @@ export default async function Home({}) {
       }}
     >
       {/* <div className="absolute bottom-0">Bogotá, Colombia · Calle 6#26-99</div> */}
-      <div className="fixed bottom-0">
+      <div className="fixed bottom-0 z-50">
         <SocialFooter />
       </div>
 

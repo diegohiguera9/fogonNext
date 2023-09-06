@@ -27,7 +27,7 @@ export default async function Home({}) {
         <p className="text-rose-900 opacity-70">Expertos en carnes</p>
       </div>
 
-      <div className="flex flex-col md:flex-row mb-8 rounded-lg bg-red-300 max-[640px]:h-[80vh]">
+      <div className="flex flex-col md:flex-row mb-8 rounded-lg backdrop-blur-xl backdrop-brightness-150 z-10">
         <Link
           href="/menu"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"

@@ -22,7 +22,7 @@ export default function Home() {
           src="https://res.cloudinary.com/dx5lqdwlg/image/upload/v1693998074/logoApaisado_1_shu8ie.webp"
           alt="Next.js Logo"
           sizes="100vw"
-          width={500}
+          width={300}
           height={37}
         />
         <p className="text-rose-900 opacity-70">Expertos en carnes</p>

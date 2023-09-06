@@ -3,7 +3,16 @@ import { CldImage } from 'next-cloudinary';
 import SocialFooter from "./_components/socialFooter";
 import Link from "next/link";
 
-export default function Home() {
+export async function getServerSideProps() {
+  const normalizeSrc = (src) => src[0] === '/' ? src.slice(1) : src
+  const params = ['f_auto', 'c_limit', 'w_' + width, 'q_' + (quality || 'auto')];
+  const loader =  `https://res.cloudinary.com/${process.env.CLOUDINARY_CLOUD_NAME}/image/upload/${params.join(',')}/${normalizeSrc(src)}`;
+  // Fetch data from external API 
+  // Pass data to the page via props
+  return { props: { cloudinaryLoader:loader } }
+}
+
+export default function Home({cloudinaryLoader}) {
   return (
     <main
       className="flex min-h-screen flex-col items-center justify-start p-8 md:justify-between bg-center bg-cover"
@@ -24,6 +33,7 @@ export default function Home() {
           sizes="100vw"
           width={300}
           height={37}
+          loader={cloudinaryLoader}
         />
         <p className="text-rose-900 opacity-70">Expertos en carnes</p>
       </div>

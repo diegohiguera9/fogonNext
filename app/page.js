@@ -1,30 +1,8 @@
-"use client";
-
 import Image from "next/image";
-import { CldImage } from 'next-cloudinary';
 import SocialFooter from "./_components/socialFooter";
 import Link from "next/link";
 
-// async function getData() {
-//   const width = 1080
-//   const src = "/v1693998074/logoApaisado_1_shu8ie.webp"
-//   const normalizeSrc = (src) => src[0] === '/' ? src.slice(1) : src
-//   const params = ['f_auto', 'c_limit', 'w_' + width, 'q_' + ('auto' || 'auto')];
-//   const loader =  `https://res.cloudinary.com/${process.env.CLOUDINARY_CLOUD_NAME}/image/upload/${params.join(',')}/${normalizeSrc(src)}`;
-//   // Fetch data from external API 
-//   // Pass data to the page via props
-//   return { cloudinaryLoader: loader }
-// }
-
-const normalizeSrc = (src) => src[0] === '/' ? src.slice(1) : src
-
-export function cloudinaryLoader({ src, width, quality }) {
-  const params = ['f_auto', 'c_limit', 'w_' + width, 'q_' + (quality || 'auto')];
-  return `https://res.cloudinary.com/${process.env.CLOUDINARY_CLOUD_NAME}/image/upload/${params.join(',')}/${normalizeSrc(src)}`;
-}
-
-export default function Home({}) {
-  // const {cloudinaryLoader} = await getData()
+export default async function Home({}) {
   return (
     <main
       className="flex min-h-screen flex-col items-center justify-start p-8 md:justify-between bg-center bg-cover"
@@ -40,12 +18,11 @@ export default function Home({}) {
       <div className="flex flex-col justify-start w-10/12 aspect-[32/9] mb-4">
         <Image
           className="relative object-contain"
-          src="logoApaisado_1_shu8ie"
+          src="https://res.cloudinary.com/dx5lqdwlg/image/upload/v1693998074/logoApaisado_1_shu8ie.webp"
           alt="Next.js Logo"
           sizes="100vw"
           width={300}
           height={37}
-          loader={cloudinaryLoader}
         />
         <p className="text-rose-900 opacity-70">Expertos en carnes</p>
       </div>

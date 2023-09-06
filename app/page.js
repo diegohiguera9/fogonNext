@@ -7,7 +7,7 @@ export default async function Home({}) {
     <main
       className="flex min-h-screen flex-col items-center justify-start p-8 md:justify-between bg-center bg-cover"
       style={{
-        backgroundImage: "url(https://res.cloudinary.com/dx5lqdwlg/image/upload/v1693998074/fondo_nc1m6l.webp)",
+        backgroundImage: "url(/fondo.webp)",
       }}
     >
       {/* <div className="absolute bottom-0">Bogotá, Colombia · Calle 6#26-99</div> */}
@@ -18,7 +18,7 @@ export default async function Home({}) {
       <div className="flex flex-col justify-start w-10/12 aspect-[32/9] mb-4">
         <Image
           className="relative object-contain"
-          src="https://res.cloudinary.com/dx5lqdwlg/image/upload/v1693998074/logoApaisado_1_shu8ie.webp"
+          src="/logoApaisado.webp"
           alt="Next.js Logo"
           sizes="100vw"
           width={300}

@@ -1,13 +1,10 @@
 export default async function GetFromApi(category){
     try {
         console.log('fetching api...')
-        const res = await fetch(`http://localhost:3000/api/getproducts?category=${category}`,{
-            method: 'GET',
-            cache: "no-store"
-        })
+        const getFunction = await import("../api/getproducts/route")
+        const res = await getFunction.GET('Sopas')
         if (res.ok) {
             const {data} = await res.json()
-            console.log(data)
             return data
         }
         throw new Error('error in fetchin api')

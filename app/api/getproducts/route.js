@@ -7,5 +7,8 @@ export async function GET(category) {
     const result =  await Category.findOne({name:category}).populate({
         path: 'products'
     })
+    if (!result.products) {
+        result.products = []
+    }
     return NextResponse.json({data:result.products})
 }

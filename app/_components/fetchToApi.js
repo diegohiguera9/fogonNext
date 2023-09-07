@@ -1,7 +1,7 @@
 export default async function GetFromApi(category){
     try {
         console.log('fetching api...')
-        const getFunction = await import("../api/getproducts/route")
+        const getFunction = await import("../_apiCalls/getproducts/route")
         const res = await getFunction.GET('Sopas')
         if (res.ok) {
             const {data} = await res.json()

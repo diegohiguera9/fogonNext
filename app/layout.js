@@ -9,8 +9,8 @@ export const metadata = {
   description: 'El fogon llanero restaurante de carnes en bogota',
 }
 
-export default function RootLayout({ children }) {
-  connect()
+export default async function RootLayout({ children }) {
+  await connect()
   return (
     <html lang="es">
       <body className={inter.className}>{children}</body>

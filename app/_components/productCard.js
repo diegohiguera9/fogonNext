@@ -3,14 +3,15 @@ import Image from "next/image";
 export default function ProductCard({ src, price, description, name }) {
   return (
     <>
-      <div className="flex justify-start w-screen aspect-[21/9] col-span-5 mb-4 sm:max-w-md sm:w-72 grow">
-        <div className="relative flex flex-col justify-start w-48 sm:w-80 aspect-video rounded-lg overflow-hidden">
+      <div className="flex justify-start aspect-[21/9] col-span-5 mb-4 sm:max-w-md sm:w-72 grow">
+        <div className="relative flex flex-col justify-start w-48 md:w-80 aspect-video rounded-lg overflow-hidden">
           <Image
             className="object-cover"
             src={src}
             alt="Cortes carne"
-            sizes="100vw"
+            sizes="(min-width: 768px) 50vw, (min-width: 1200px) 100vw, 33vw"
             fill
+            quality={40}
           />
         </div>
         <div className="flex flex-col w-48 ml-4">

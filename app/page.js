@@ -10,7 +10,6 @@ export default async function Home({}) {
         backgroundImage: "url(https://res.cloudinary.com/dx5lqdwlg/image/upload/v1693998074/fondo_nc1m6l.webp)",
       }}
     >
-      {/* <div className="absolute bottom-0">Bogotá, Colombia · Calle 6#26-99</div> */}
       <div className="fixed bottom-0 z-50">
         <SocialFooter />
       </div>
@@ -45,10 +44,9 @@ export default async function Home({}) {
           </p>
         </Link>
 
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
+        <Link
+          href="/contacto"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800 hover:dark:bg-opacity-30"
-          target="_blank"
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
@@ -60,12 +58,11 @@ export default async function Home({}) {
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
             Haz tu pedido o reserva tu mesa
           </p>
-        </a>
+        </Link>
 
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+        <Link
+          href="/ubicacion"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
@@ -77,12 +74,11 @@ export default async function Home({}) {
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
             Conoce más sobre la ubicación del restaurante
           </p>
-        </a>
+        </Link>
 
-        <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+        <Link
+          href="conoce"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
@@ -94,7 +90,7 @@ export default async function Home({}) {
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
             Fotos de nuestras instalaciones, reuniones realizadas y mucho más
           </p>
-        </a>
+        </Link>
       </div>
     </main>
   );

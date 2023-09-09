@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Menu() {
   return (
     <>
-      <div className="p-8 bg-gray-100">
+      <div className="p-8">
         <p className="text-lg font-bold">
           Bienvendio al menú de El Fogon Llanero
         </p>

@@ -6,7 +6,7 @@ export default async function Sopas() {
     return (
         <div className="px-1">
             <ProductTitle product={'Sopas de la casa'} copy={copy}/>
-            <CardContainer category={'Sopas'}/>
+            <CardContainer category={'Sopas'} restaurant={'sexta'}/>
         </div>
     )
 }

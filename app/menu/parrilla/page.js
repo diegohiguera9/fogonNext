@@ -2,7 +2,7 @@ import CardContainer from "@/app/_components/cardContainer"
 import ProductTitle from "@/app/_components/titleProduct"
 
 export default function Sopas() {
-    const copy = 'Nuestras sopas son elaboraciones tradicionales de la gastronomia colombiana, hechas desde 0 y con la mejor selección de ingredientes'
+    const copy = 'Cortes de carne especialmente seleccionados, cuya preparació se basa en una coción en parrilla al carbón'
     return (
         <div className="px-1">
             <ProductTitle product={'A la Parrilla'} copy={copy}/>

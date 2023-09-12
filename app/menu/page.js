@@ -9,13 +9,16 @@ export default function Menu() {
         </p>
         <p className="text-base">
           Por favor selecciona alguna de las categorias de la parte superior
-          para ver los productos de cada una
+          para ver los productos de cada una.
         </p>
-        <p className="text-md font-bold">Manejamos platos para compartir y platos personales, preguntale a tu mesero más detalles de cada plato</p>
+        <p className="text-md font-bold">
+          Manejamos platos para compartir y platos personales, preguntale a tu
+          mesero más detalles de cada plato
+        </p>
         <br />
         <p className="text-xl font-bold">Información complementaria</p>
         <p className="text-lg font-bold">Terminos de la carne:</p>
-        <div className="flex flex-col justify-start w-10/12 aspect-square mb-4">
+        <div className="flex flex-col justify-start w-10/12 mb-4">
           <Image
             className="relative object-contain"
             src="/terminos.webp"
@@ -26,7 +29,7 @@ export default function Menu() {
             priority
           />
         </div>
-        <br/>
+        <br />
         <p className="text-lg font-bold">Ubicación de los cortes:</p>
         <div className="flex flex-col justify-start w-10/12 aspect-square mb-4">
           <Image

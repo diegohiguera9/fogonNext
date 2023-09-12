@@ -7,9 +7,10 @@ export default function CategoryCarousel() {
     { category: "Horno", svg: "/oven.svg", href:'/menu/horno' },
     { category: "Parrilla", svg: "/grill.svg", href:'/menu/parrilla' },
     { category: "Cocina", svg: "/pan.svg", href:'/menu/cocina' },
+    { category: "Naturales", svg: "/drink.svg", href:'/menu/jugos' },
     { category: "Bebidas", svg: "/drink.svg", href:'/menu/bebidas' },
-    { category: "Postres", svg: "/icecream.svg", href:'/menu/sopas' },
-    { category: "Adcionales", svg: "/fries.svg", href:'/menu/sopas' },
+    { category: "Postres", svg: "/icecream.svg", href:'/menu/postre' },
+    { category: "Adcionales", svg: "/fries.svg", href:'/menu/adicionales' },
   ];
   return (
     <>

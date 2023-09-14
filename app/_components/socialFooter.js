@@ -13,7 +13,7 @@ export default function SocialFooter({ children }) {
             height={45}
           />
         </a>
-        <a href="https://wa.me/573115898663">
+        <a href="https://www.facebook.com/expertosencarnes?mibextid=LQQJ4d">
           <Image
             src="/facebook.svg"
             alt="instaLogo"
@@ -21,7 +21,7 @@ export default function SocialFooter({ children }) {
             height={45}
           />
         </a>
-        <a href="https://wa.me/573115898663">
+        <a href="https://instagram.com/elfogonllanerorestaurante?igshid=NzZlODBkYWE4Ng==">
           <Image
             src="/instagram.svg"
             alt="instaLogo"
@@ -29,7 +29,7 @@ export default function SocialFooter({ children }) {
             height={45}
           />
         </a>
-        <a href="https://wa.me/573115898663">
+        <a href="www.tiktok.com/@fogllanero">
           <Image
             src="/tiktok.svg"
             alt="instaLogo"

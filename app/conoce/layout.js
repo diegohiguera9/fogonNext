@@ -3,5 +3,5 @@ export default async function RootLayout({ children }) {
     <div lang="es">
       <div>{children}</div>
     </div>
-  )
+  );
 }

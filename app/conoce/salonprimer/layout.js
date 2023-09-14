@@ -1,4 +1,4 @@
-import HeaderOther from "../_components/headerOhter";
+import HeaderOther from "@/app/_components/headerOhter";
 
 export default async function RootLayout({ children }) {
   return (

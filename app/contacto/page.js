@@ -20,7 +20,7 @@ export default function Contacto() {
       </a>
       <p className="text-xl font-bold mb-4">Preguntas frecuentes</p>
       <p className="text-base font-bold">
-        Debo reservar la mesa con anticipación?
+        ¿Debo reservar la mesa con anticipación?
       </p>
       <p className="mb-4">
         Para grupos de menos de 6 personas no hace falta que reserves el
@@ -28,7 +28,7 @@ export default function Contacto() {
         WhatsApp y obtener más información.
       </p>
       <p className="text-base font-bold">
-        Puedo reservar algun plato de Horno?
+        ¿Puedo reservar algun plato de Horno?
       </p>
       <p className="mb-4">
         Somos conscientes que nuestros platos de horno tienen disponibilidad
@@ -36,7 +36,7 @@ export default function Contacto() {
         tanto, puedes comunicarte con nosotros y apartar tu plato de horno
         preferido.
       </p>
-      <p className="text-base font-bold">Manejan reservas empresariales?</p>
+      <p className="text-base font-bold">¿Manejan reservas empresariales?</p>
       <p className="mb-4">
         Contamos con unas instalaciones muy amplias, disponibles para ser los
         mejores anfitriones de tu evento empresarial, puedes ver algunas fotos

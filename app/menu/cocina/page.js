@@ -2,7 +2,7 @@ import CardContainer from "@/app/_components/cardContainer"
 import ProductTitle from "@/app/_components/titleProduct"
 
 export default function Cocina() {
-    const copy = 'En esta sección encontraras unos de los platos más clásicos de nuestro menú, como lo son la Lengua en Salsa y el Guiso de Cola, y otros mas contemporaneos como los lomos en alguna salsa de la casa.'
+    const copy = 'En esta sección encontraras algunos de los platos más tradicionales de nuestro menú, como lo son la Lengua en Salsa, Guiso de Cola, lomos en salsa y otras preparaciones extraordinarias'
     return (
         <div className="px-1">
             <ProductTitle product={'De nuestra cocina'} copy={copy}/>

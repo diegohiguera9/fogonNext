@@ -28,7 +28,7 @@ export default async function RootLayout({ children }) {
       </Link>
       <Link
         href="/"
-        className="fixed bottom-2 right-4 lg:right-12 z-50 md:top-4 flex items-center justify-center p-1 rounded-full shadow shadow-slate-700 w-16 aspect-square lg:h-16 backdrop-blur-lg"
+        className="fixed animate-bounce bottom-2 left-4 lg:right-12 z-50 md:top-4 md:left-auto md:right-4 flex items-center justify-center p-1 rounded-full shadow shadow-slate-700 w-16 aspect-square lg:h-16 backdrop-blur-lg"
       >
         <Image src="/home.svg" alt="Home" width={40} height={40} />
       </Link>

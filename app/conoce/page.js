@@ -37,7 +37,7 @@ export default function Conoce() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Conoce nuestro salon principal disponible en el primer piso de
+            Conoce nuestro salón principal disponible en el primer piso de
             nuestras instalaciones
           </p>
         </Link>

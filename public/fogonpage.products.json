@@ -1,0 +1,1276 @@
+[{
+  "_id": {
+    "$oid": "64fde22e2d11dd33d8098049"
+  },
+  "name": "Baby beef (450gr)",
+  "categoryId": {
+    "$oid": "Parrilla"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694708127/12._Baby_rjsagd.jpg"
+  ],
+  "price": 70000,
+  "description": "Corte argention de lomo fino, acompañado de papa en casco y ensalada de la casa (lechuga crespa, tomate, alverja, queso campesino, maíz tierno, aguacate y vinagreta",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:35:10.309Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:35:10.309Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a31626106f5e5c342b0a"
+  },
+  "name": "Porción yuca frita",
+  "categoryId": {
+    "$oid": "Adicionales"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694779625/21._YF_lrcilm.jpg"
+  ],
+  "price": 9500,
+  "description": "Yuca frita",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-13T11:55:02.541Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:55:02.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fde44f503b1da1f8be260e"
+  },
+  "name": "Lomito pimienta al carbón (450gr)",
+  "categoryId": {
+    "$oid": "Cocina"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358220/12._pimienta_msmir9_hd0gbw.webp"
+  ],
+  "price": 75000,
+  "description": "Cortes de lomo fino sellados en la parrilla, término a su gusto, bañados en salsa de la casa a base de pimienta, acompañado de papa en casco y ensalada de la casa.",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:44:15.728Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:44:15.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fde46d503b1da1f8be2613"
+  },
+  "name": "Lomito en salsa de champiñones (450gr)",
+  "categoryId": {
+    "$oid": "Cocina"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1699272108/12._LomoChampi_ufkvce.jpg"
+  ],
+  "price": 75000,
+  "description": "Cortes de lomo fino sellados en la parrilla, término a su gusto, bañados en salsa de la casa a base de champiñones, acompañado de papa en casco y ensalada de la casa.",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:44:45.881Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:44:45.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fddbb0055ebf7bf02ce079"
+  },
+  "name": "Cuchuco de Trigo",
+  "categoryId": {
+    "$oid": "Sopas"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694951466/1._cuchuco_lutbwh.jpg"
+  ],
+  "price": 39900,
+  "description": "A base de trigo y vegetales, acompañado de arroz, aguacate y espinazo de cerdo",
+  "location": "sexta",
+  "createdAt": {
+    "$date": "2023-09-10T15:07:28.629Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:07:28.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a26426106f5e5c342b00"
+  },
+  "name": "Porción yuca vapor",
+  "categoryId": {
+    "$oid": "Adicionales"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694605824/20._yuca_dwk1bj.jpg"
+  ],
+  "price": 5300,
+  "description": "Yuca al vapor",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-13T11:52:05.086Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:52:05.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500bea781a530f2be2aafa0"
+  },
+  "name": "Limonada Natural",
+  "categoryId": {
+    "$oid": "Jugos"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358225/21._limonada_umpw8z.jpg"
+  ],
+  "price": 6000,
+  "description": "Clásica limonada natural",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:40:23.645Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:40:23.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a48f26106f5e5c342b23"
+  },
+  "name": "Ensalada de la casa",
+  "categoryId": {
+    "$oid": "Adicionales"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694606417/20._ensalada_vyzirl.jpg"
+  ],
+  "price": 12600,
+  "description": "Lechuga crespa, tomate, alverja, maíz tierno, aguacate, queso y vinagreta",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-13T12:01:20.096Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T12:01:20.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fde25c2d11dd33d809804e"
+  },
+  "name": "Bife Chorizo (500gr)",
+  "categoryId": {
+    "$oid": "Parrilla"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1696775165/16_Bife_kn2hkj.jpg"
+  ],
+  "price": 70000,
+  "description": "Corte argentino de lomo ancho, acompañado de papa en casco y ensalada de la casa (lechuga crespa, tomate, alverja, queso campesino, maíz tierno, aguacate y vinagreta",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:35:56.529Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:35:56.529Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fde0842d11dd33d8098035"
+  },
+  "name": "Mixto Fogon (600gr)",
+  "categoryId": {
+    "$oid": "Parrilla"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694708112/4._fogon_jx7noc.jpg"
+  ],
+  "price": 63000,
+  "description": "Plato combinado con nuestras carnes a la parrilla: Churrasco, Pechuga y Chuleta, acompañado de papa, plátano y arepa boyacense",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:28:04.455Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:28:04.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a3cc26106f5e5c342b1e"
+  },
+  "name": "Porción de guacamole",
+  "categoryId": {
+    "$oid": "Adicionales"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694708127/21_Guacamole_twp35n.jpg"
+  ],
+  "price": 4000,
+  "description": "Guacamole de la casa",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-13T11:58:04.422Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:58:04.422Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500bf5181a530f2be2aafaa"
+  },
+  "name": "Jugo de Mandarina",
+  "categoryId": {
+    "$oid": "Jugos"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358225/21._mandarina_yjuipe.jpg"
+  ],
+  "price": 11000,
+  "description": "Extracto de mandarina recien exprimido",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:43:13.328Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:43:13.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a0f226106f5e5c342af6"
+  },
+  "name": "Porción papa salada",
+  "categoryId": {
+    "$oid": "Adicionales"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358223/20._papa_ckysa6.webp"
+  ],
+  "price": 5500,
+  "description": "Papa salada",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-13T11:45:54.881Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:45:54.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f9e2cf037e9ee2c77f0948"
+  },
+  "name": "Mazamorra Chiquita",
+  "categoryId": {
+    "$oid": "Sopas"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694188364/IMG_3996_1_wbnzdf_rgnwfy.webp"
+  ],
+  "price": 39900,
+  "createdAt": {
+    "$date": "2023-09-07T14:48:47.289Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T14:48:47.289Z"
+  },
+  "__v": 0,
+  "description": "Sopa a base de maíz porba, vegetales y carnes. Acompañada de 300gr de costilla de res y mazorca",
+  "location": "both"
+},
+{
+  "_id": {
+    "$oid": "6500bf9481a530f2be2aafb4"
+  },
+  "name": "Crema de Guanabana",
+  "categoryId": {
+    "$oid": "Jugos"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358224/21._guanabana_x0fqxd.jpg"
+  ],
+  "price": 9500,
+  "description": "Guanabana en leche",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:44:21.014Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:44:21.014Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fde1c72d11dd33d8098044"
+  },
+  "name": "T.bone Steak (700gr)",
+  "categoryId": {
+    "$oid": "Parrilla"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694785884/17._Tbone_dj7vj3.jpg"
+  ],
+  "price": 84000,
+  "description": "Corte americano madurado que contiene dos de las mas finas carnes: lomo fino y lomo ancho unidos por el hueso de aguja, acompañado de yuca, papa, plátano y arepa boyacense",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:33:27.310Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:33:27.310Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fde1772d11dd33d809803f"
+  },
+  "name": "Punta de Anca (800gr)",
+  "categoryId": {
+    "$oid": "Parrilla"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694785883/9._Punta_oemie1.jpg"
+  ],
+  "price": 84000,
+  "description": "Carne madurada en corte mariposa, acompañado de yuca, papa, plátano y arepa boyacense",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:32:07.676Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:32:07.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a37426106f5e5c342b14"
+  },
+  "name": "Porción costilla de res",
+  "categoryId": {
+    "$oid": "Adicionales"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694188364/IMG_3996_1_wbnzdf_rgnwfy.webp"
+  ],
+  "price": 20000,
+  "description": "Porción de costilla de res de la sopa",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-13T11:56:37.138Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:56:37.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fde3e2503b1da1f8be2609"
+  },
+  "name": "Guiso de cola",
+  "categoryId": {
+    "$oid": "Cocina"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358222/15._cola_xfviot_waf9xf.webp"
+  ],
+  "price": 68000,
+  "description": "Nudos de cola de res bañados en deliciosa salsa alcaparrada de la casa, acompañados de papa al vapor, yuca y arroz",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:42:26.548Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:42:26.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fdde2f055ebf7bf02ce092"
+  },
+  "name": "Chuleta de Cerdo (1200g)",
+  "categoryId": {
+    "$oid": "Horno"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694784873/5._Cerdo_xjluy1.jpg"
+  ],
+  "price": 84000,
+  "description": "Chuletas de cerdo doradas al horno, acompañado de papa, yuca, plátano y arepa boyacense",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:18:07.126Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:18:07.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fddfd12d11dd33d8098030"
+  },
+  "name": "Mixto para Dos (850gr)",
+  "categoryId": {
+    "$oid": "Parrilla"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694951466/4._Parrillla_q7kcn6.jpg"
+  ],
+  "price": 84000,
+  "description": "Plato combinado con nuestras carnes a la parrilla: Churrasco, Pechuga y Chuleta, acompañado de yuca, papa, plátano y arepa boyacense",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:25:05.901Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:25:05.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c09c81a530f2be2aafda"
+  },
+  "name": "Gaseosa",
+  "categoryId": {
+    "$oid": "Bar"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1668523319/top24/rxrvt9kq8owgbjghsxjx.webp"
+  ],
+  "price": 5500,
+  "description": "Coca cola o Colombiana",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:48:44.379Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:48:44.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500bf7c81a530f2be2aafaf"
+  },
+  "name": "Crema de Mora",
+  "categoryId": {
+    "$oid": "Jugos"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358224/21._cremamora_szgmpv.webp"
+  ],
+  "price": 9500,
+  "description": "Mora en leche",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:43:56.634Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:43:56.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500bf1f81a530f2be2aafa5"
+  },
+  "name": "Limonada de Coco",
+  "categoryId": {
+    "$oid": "Jugos"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358224/21._coco_dtnaxh.webp"
+  ],
+  "price": 10000,
+  "description": "Limonada a base de coco natural",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:42:24.065Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:42:24.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a2eb26106f5e5c342b05"
+  },
+  "name": "Porción papa en casco",
+  "categoryId": {
+    "$oid": "Adicionales"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694606023/20._Casco_r6ipeq.jpg"
+  ],
+  "price": 9500,
+  "description": "Papas en casco fritas",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-13T11:54:19.204Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:54:19.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c04f81a530f2be2aafd2"
+  },
+  "name": "Jugo de Maracuyá",
+  "categoryId": {
+    "$oid": "Jugos"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358226/21._maracuya_uwh4uc.webp"
+  ],
+  "price": 9500,
+  "description": "Maracuyá en agua",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:47:27.169Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:47:27.169Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65045e83c217dcf6078498dd"
+  },
+  "name": "Chuleta de cordero",
+  "categoryId": {
+    "$oid": "Horno"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694784873/7._Cordero_zlbnis.jpg"
+  ],
+  "price": 84000,
+  "description": "Chuletas de cordero doradas al horno, acompañadas de yuca, papa, plátano y arepa",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-15T13:39:15.112Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T13:39:15.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c0c981a530f2be2aafdf"
+  },
+  "name": "Agua",
+  "categoryId": {
+    "$oid": "Bar"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1676376740/top24/Botella-de-Agua_dveij8.jpg"
+  ],
+  "price": 4700,
+  "description": "Agua cristal botella",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:49:30.028Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:49:30.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fde4f7503b1da1f8be261d"
+  },
+  "name": "Trucha (450gr)",
+  "categoryId": {
+    "$oid": "Cocina"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358220/11._truchap_mtp2so_zsdqix.webp"
+  ],
+  "price": 50000,
+  "description": "Al papillote envuelta en hoja de plátano puesta a la parrilla, acompañada de papas en casco y ensalada de la casa",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:47:03.581Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:47:03.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6548d69473745d72dd2828d2"
+  },
+  "name": "Costillas BBQ (400gr)",
+  "categoryId": {
+    "$oid": "Parrilla"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1699272108/5._Costillas_BBQ_evv6ha.jpg"
+  ],
+  "price": 39500,
+  "description": "Costillas de cerdo horneadas, terminadas en parrilla al carbón, bañadas en nuestra clásica salsa bbq, con un ligero toque de panela, acompañadas con ensalada de la casa y papitas en casco.",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-11-06T12:05:40.421Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-06T12:05:40.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fddf296180a6eacbc621f8"
+  },
+  "name": "Mixto Personal (450gr)",
+  "categoryId": {
+    "$oid": "Parrilla"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694605824/4._medioP_yeaj3e.jpg"
+  ],
+  "price": 46000,
+  "description": "Plato combinado a su gusto con dos de nuestras carnes de parrilla, acompañados de papa, plátano y arepa boyacense",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:22:17.411Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:22:17.411Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c03581a530f2be2aafcd"
+  },
+  "name": "Jugo de Fresa",
+  "categoryId": {
+    "$oid": "Jugos"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358226/21._mora_arggka.webp"
+  ],
+  "price": 8500,
+  "description": "Fresa en agua",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:47:01.367Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:47:01.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fde2b42d11dd33d8098053"
+  },
+  "name": "Rib Eye (350gr)",
+  "categoryId": {
+    "$oid": "Parrilla"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694776367/16._RB_tnh3ry.jpg"
+  ],
+  "price": 39500,
+  "description": "Filete de res madurado extraido de la parte superior del lomo ancho a la altura de la sexta costilla, de ahí su nombre, ojo de costilla, acompañado de papa en casco y ensalada de la casa",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:37:24.399Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:37:24.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c2cd81a530f2be2aaff6"
+  },
+  "name": "Queso con dulce de Papayuela",
+  "categoryId": {
+    "$oid": "Postre"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694548622/22._DulcePap_zdqd8a.jpg"
+  ],
+  "price": 9500,
+  "description": "Queso campesino bañado en dulce de papayuela de la casa",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:58:05.570Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:58:05.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fdddd2055ebf7bf02ce088"
+  },
+  "name": "Mixto para 2 (1200g)",
+  "categoryId": {
+    "$oid": "Horno"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694776367/4._Horno_xktou1.jpg"
+  ],
+  "price": 84000,
+  "description": "Plato combinado con nuestras carnes al horno, Cerdo, Cordero, Costilla de Res y Sobrebarriga, acompañado de papa, yuca, plátano y arepa boyacense",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:16:34.731Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:16:34.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500bff881a530f2be2aafc3"
+  },
+  "name": "Jugo de Mora",
+  "categoryId": {
+    "$oid": "Jugos"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358226/21._fresa_ph1qza_dbzkbq.jpg"
+  ],
+  "price": 8500,
+  "description": "Mora en agua",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:46:00.753Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:46:00.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c34381a530f2be2aaffb"
+  },
+  "name": "Helado San Jeronimo",
+  "categoryId": {
+    "$oid": "Postre"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694548752/helados_jqewao.webp"
+  ],
+  "price": 8700,
+  "description": "Clásicos helados colombianos en variedad de sabores",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T20:00:03.281Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T20:00:03.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fddd78055ebf7bf02ce083"
+  },
+  "name": "Mixto Personal (650gr)",
+  "categoryId": {
+    "$oid": "Horno"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694776367/4._MedioH_dmbekp.jpg"
+  ],
+  "price": 46000,
+  "description": "Plato combinado a su gusto con dos de nuestras carnes al horno, acompañado de papa, plátano y arepa boyacense",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:15:04.102Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:15:04.102Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c01e81a530f2be2aafc8"
+  },
+  "name": "Jugo de Guanabana",
+  "categoryId": {
+    "$oid": "Jugos"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358224/21._guanabana_x0fqxd.jpg"
+  ],
+  "price": 8500,
+  "description": "Guanabana en agua",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:46:39.037Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:46:39.037Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f9e3c0037e9ee2c77f094d"
+  },
+  "name": "Mute Santandereano",
+  "categoryId": {
+    "$oid": "Sopas"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694188183/IMG_4394_1_hqrjuc_lldduw.webp"
+  ],
+  "price": 39900,
+  "createdAt": {
+    "$date": "2023-09-07T14:52:48.744Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T14:52:48.744Z"
+  },
+  "__v": 0,
+  "description": "Acopañado de arroz blanco, aguacate, mazorca y arepa (sólo jueves)",
+  "location": "sexta"
+},
+{
+  "_id": {
+    "$oid": "64fddc1a055ebf7bf02ce07e"
+  },
+  "name": "Media Sopa",
+  "categoryId": {
+    "$oid": "Sopas"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358219/1._media_ugmw1j_ketuvr.jpg"
+  ],
+  "price": 11500,
+  "description": "Taza personal de cualquiera de nuestras sopas",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:09:14.323Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:09:14.323Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a0b526106f5e5c342af1"
+  },
+  "name": "Arepa de la casa",
+  "categoryId": {
+    "$oid": "Adicionales"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358224/20._arepa_rwzjnu_dqeuwl.webp"
+  ],
+  "price": 3700,
+  "description": "Arepa boyacense artesanal",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-13T11:44:53.752Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:44:53.752Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500bfb081a530f2be2aafb9"
+  },
+  "name": "Crema de Fresa",
+  "categoryId": {
+    "$oid": "Jugos"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358224/21._cremafresa_b7yuke.webp"
+  ],
+  "price": 9500,
+  "description": "Fresa en leche",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:44:49.074Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:44:49.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c11081a530f2be2aafe4"
+  },
+  "name": "Cerveza",
+  "categoryId": {
+    "$oid": "Bar"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1676377485/top24/BOTELLA-550PX_gznuwb.png"
+  ],
+  "price": 6300,
+  "description": "Poker, aguila, aguila light",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:50:40.297Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:50:40.297Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fde3b1503b1da1f8be2604"
+  },
+  "name": "Lengua en salsa",
+  "categoryId": {
+    "$oid": "Cocina"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358220/10._lengua_ufefcu_wzaalw.webp"
+  ],
+  "price": 68000,
+  "description": "Filetes de lengua bañados en deliciosa salsa alcaparrada de la casa, acompañados de papa al vapor, yuca y arroz",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:41:37.430Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:41:37.430Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fde3392d11dd33d809805d"
+  },
+  "name": "Hamburguesa doble combo (300gr)",
+  "categoryId": {
+    "$oid": "Parrilla"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694776367/18._Doble_hw74yn.jpg"
+  ],
+  "price": 36500,
+  "description": "A base de Punta de Anca, con vegetales, queso y salsas, acompañada de papa en casco y limonada natural o gaseosa",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:39:37.937Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:39:37.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fdde74055ebf7bf02ce097"
+  },
+  "name": "Sobrebarriga (1200gr)",
+  "categoryId": {
+    "$oid": "Horno"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694784873/8._Sobrebarriga_m6a58k.jpg"
+  ],
+  "price": 84000,
+  "description": "Sobrebarriga delgada (matambre argentino) doradas al horno, acompañadas de papa, yuca, plátano y arepa boyacense",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:19:16.864Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:19:16.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fde31b2d11dd33d8098058"
+  },
+  "name": "Hamburguesa sencilla combo (150gr)",
+  "categoryId": {
+    "$oid": "Parrilla"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694951466/18._Sencilla_g8vy4k.jpg"
+  ],
+  "price": 26500,
+  "description": "A base de Punta de Anca, con vegetales, queso y salsas, acompañada de papa en casco y limonada natural o gaseosa",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:39:07.931Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:39:07.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a33e26106f5e5c342b0f"
+  },
+  "name": "Porción arroz",
+  "categoryId": {
+    "$oid": "Adicionales"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358224/20._pz_tyxdzn.jpg"
+  ],
+  "price": 4200,
+  "description": "Arroz blanco acompañado de plátano maduro",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-13T11:55:42.969Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:55:42.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fdddf8055ebf7bf02ce08d"
+  },
+  "name": "Costilla de Res (1200gr)",
+  "categoryId": {
+    "$oid": "Horno"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694784874/6._Costilla_xxltxc.jpg"
+  ],
+  "price": 84000,
+  "description": "Costillas de Res doradas al horno, acompañado de papa, yuca, plátano y arepa boyacense",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:17:12.393Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:17:12.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fde58d503b1da1f8be2627"
+  },
+  "name": "Frijoles con pezuña",
+  "categoryId": {
+    "$oid": "Cocina"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358222/14._frijol_bmh93j_beer9t.webp"
+  ],
+  "price": 29000,
+  "description": "Exquisita receta de la casa acompañada de arroz, plátano, arepa, aguacate, pezuña de cerdo y chicharrón (de martes a viernes)",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:49:33.619Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:49:33.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c13581a530f2be2aafe9"
+  },
+  "name": "Club Colombia",
+  "categoryId": {
+    "$oid": "Bar"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1676377529/top24/sku-home-dorada_gneq27.jpg"
+  ],
+  "price": 7600,
+  "description": "Club colombia Dorada",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:51:17.568Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:51:17.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a39f26106f5e5c342b19"
+  },
+  "name": "Porción de mazorca",
+  "categoryId": {
+    "$oid": "Adicionales"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358224/20._mazorca_kw98wx_jldnxj.webp"
+  ],
+  "price": 5500,
+  "description": "Porción de mazorca de la sopa",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-13T11:57:19.838Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:57:19.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501a13426106f5e5c342afb"
+  },
+  "name": "Porción plátano maduro",
+  "categoryId": {
+    "$oid": "Adicionales"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1673918696/top24/qp5pbcvb20nqz9doj8u5.jpg"
+  ],
+  "price": 5300,
+  "description": "Plátano maduro frito",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-13T11:47:00.546Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T11:47:00.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500bfcb81a530f2be2aafbe"
+  },
+  "name": "Crema de Maracuyá",
+  "categoryId": {
+    "$oid": "Jugos"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358226/21._maracuya_uwh4uc.webp"
+  ],
+  "price": 10500,
+  "description": "Maracuyá en leche",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:45:15.692Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:45:15.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fde1182d11dd33d809803a"
+  },
+  "name": "Churrasco (700gr)",
+  "categoryId": {
+    "$oid": "Parrilla"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694785883/3._Churrasco_oggons.jpg"
+  ],
+  "price": 84000,
+  "description": "Lomo ancho madurado en corte mariposa, acompañado de yuca, papa, plátano y arepa boyacense",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:30:32.771Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:30:32.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fde49d503b1da1f8be2618"
+  },
+  "name": "Pechuga en salsa de champiñones (500gr)",
+  "categoryId": {
+    "$oid": "Cocina"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358222/13._PChampi_kgjiay_goorlo.webp"
+  ],
+  "price": 62000,
+  "description": "Filete de pechuga de pollo, bañado en salsa de la casa a base de champiñones, acompañado de papa en casco y ensalada de la casa.",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:45:34.136Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:45:34.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c2ba81a530f2be2aaff1"
+  },
+  "name": "Queso con dulce de Mora",
+  "categoryId": {
+    "$oid": "Postre"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694548622/22._DulceMor_s7k920.jpg"
+  ],
+  "price": 7500,
+  "description": "Queso campesino bañado en dulce de mora de la casa",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "__v": 0
+}]

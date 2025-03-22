@@ -4,13 +4,14 @@ import Link from "next/link";
 export default function CategoryCarousel() {
   const svgs = [
     { category: "Sopas", svg: "/soup.svg", href:'/menu/sopas' },
+    { category: "Entradas", svg: "/entradas.svg", href:'/menu/entradas' },
     { category: "Horno", svg: "/oven.svg", href:'/menu/horno' },
     { category: "Parrilla", svg: "/grill.svg", href:'/menu/parrilla' },
     { category: "Cocina", svg: "/pan.svg", href:'/menu/cocina' },
     { category: "Naturales", svg: "/fruit.svg", href:'/menu/jugos' },
     { category: "Bebidas", svg: "/drink.svg", href:'/menu/bebidas' },
     { category: "Postres", svg: "/icecream.svg", href:'/menu/postre' },
-    { category: "Adcionales", svg: "/fries.svg", href:'/menu/adicionales' },
+    { category: "Adcionales", svg: "/fries.svg", href:'/menu/adicionales' },    
   ];
   return (
     <>

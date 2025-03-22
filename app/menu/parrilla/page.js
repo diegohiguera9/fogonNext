@@ -6,7 +6,7 @@ export default function Sopas() {
     return (
         <div className="px-1">
             <ProductTitle product={'A la Parrilla'} copy={copy}/>
-            <CardContainer category={'Parrilla'} restaurant={'sexta'}/>
+            <CardContainer category={'Parrilla'} restaurant={'sexta'} displayed={true}/>
         </div>
     )
 }

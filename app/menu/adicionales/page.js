@@ -6,7 +6,7 @@ export default function Adicionales() {
     return (
         <div className="px-1">
             <ProductTitle product={'Adicionales'} copy={copy}/>
-            <CardContainer category={'Adicionales'} restaurant={'sexta'}/>
+            <CardContainer category={'Adicionales'} restaurant={'sexta'} displayed={false}/>
         </div>
     )
 }

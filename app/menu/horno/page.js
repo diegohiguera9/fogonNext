@@ -7,7 +7,7 @@ export default function Horno() {
   return (
     <div className="px-1">
       <ProductTitle product={"Del Horno"} copy={copy} />
-      <CardContainer category={"Horno"} restaurant={"sexta"} />
+      <CardContainer category={"Horno"} restaurant={"sexta"} displayed={true}/>
     </div>
   );
 }

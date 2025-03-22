@@ -6,7 +6,7 @@ export default function Jugos() {
     return (
         <div className="px-1">
             <ProductTitle product={'Bebidas Naturales'} copy={copy}/>
-            <CardContainer category={'Jugos'} restaurant={'sexta'}/>
+            <CardContainer category={'Jugos'} restaurant={'sexta'} displayed={false}/>
         </div>
     )
 }

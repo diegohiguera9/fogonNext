@@ -6,7 +6,7 @@ export default function Postre() {
     return (
         <div className="px-1">
             <ProductTitle product={'De Postre'} copy={copy}/>
-            <CardContainer category={'Postre'} restaurant={'sexta'}/>
+            <CardContainer category={'Postre'} restaurant={'sexta'} displayed={true}/>
         </div>
     )
 }

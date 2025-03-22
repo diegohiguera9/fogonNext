@@ -1273,4 +1273,313 @@
     "$date": "2023-09-12T19:57:46.295Z"
   },
   "__v": 0
-}]
+},
+{
+  "_id": {
+    "$oid": "6500c2ba81a530f2be2aaff1"
+  },
+  "name": "Aguacate",
+  "categoryId": {
+    "$oid": "Adicionales"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1676376882/top24/avocado-933060_640_grewac.jpg"
+  ],
+  "price": 7500,
+  "description": "Porción de aguacate Hass u otra variedad disponible",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c2ba81a530f2be2aaff1"
+  },
+  "name": "Chicharrón",
+  "categoryId": {
+    "$oid": "Entradas"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1676376882/top24/avocado-933060_640_grewac.jpg"
+  ],
+  "price": 16000,
+  "description": "Chicharrón de cerdo carnudo acompañado de papa salada",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c2ba81a530f2be2aaff1"
+  },
+  "name": "Chorizo Santarrosano",
+  "categoryId": {
+    "$oid": "Entradas"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1676376882/top24/avocado-933060_640_grewac.jpg"
+  ],
+  "price": 16000,
+  "description": "Clásico chorizo santarrosano (2 unidades) con papa salada",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c2ba81a530f2be2aaff1"
+  },
+  "name": "Patacones con Hogao",
+  "categoryId": {
+    "$oid": "Entradas"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1676376882/top24/avocado-933060_640_grewac.jpg"
+  ],
+  "price": 16000,
+  "description": "Crujiente plátano verde frito acompañado de hogao y guacamole",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c2ba81a530f2be2aaff1"
+  },
+  "name": "Empanadas de la Casa",
+  "categoryId": {
+    "$oid": "Entradas"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1676376882/top24/avocado-933060_640_grewac.jpg"
+  ],
+  "price": 16000,
+  "description": "Empanadas rellenas de carne acompañadas con guacamole",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c2ba81a530f2be2aaff1"
+  },
+  "name": "Cola & Pola",
+  "categoryId": {
+    "$oid": "Bar"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1687714609/top24/qjypbdcrjxhykvbqpcnh.jpg"
+  ],
+  "price": 5800,
+  "description": "Refalo tradicional (gaseosa & cerveza)",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c2ba81a530f2be2aaff1"
+  },
+  "name": "Corona",
+  "categoryId": {
+    "$oid": "Bar"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1701970325/top24/wdxojhnd4w2gucehwzjf.jpg"
+  ],
+  "price": 10500,
+  "description": "Clásica cerveza mexicana",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c2ba81a530f2be2aaff1"
+  },
+  "name": "Stella Artois",
+  "categoryId": {
+    "$oid": "Bar"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1701970325/top24/wdxojhnd4w2gucehwzjf.jpg"
+  ],
+  "price": 11500,
+  "description": "Clásica cerveza belga",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c2ba81a530f2be2aaff1"
+  },
+  "name": "Tinto de Verano",
+  "categoryId": {
+    "$oid": "Bar"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1701970325/top24/wdxojhnd4w2gucehwzjf.jpg"
+  ],
+  "price": 15500,
+  "description": "Cóctel a base de vino tinto, soda, limón y hielo",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c2ba81a530f2be2aaff1"
+  },
+  "name": "Mojito Clásico",
+  "categoryId": {
+    "$oid": "Bar"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1701970325/top24/wdxojhnd4w2gucehwzjf.jpg"
+  ],
+  "price": 18900,
+  "description": "Cóctel a base de ron, soda, limón y hierbabuena",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c2ba81a530f2be2aaff1"
+  },
+  "name": "Copa Sangría",
+  "categoryId": {
+    "$oid": "Bar"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1701970325/top24/wdxojhnd4w2gucehwzjf.jpg"
+  ],
+  "price": 18900,
+  "description": "Copa de sangría clásica",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c2ba81a530f2be2aaff1"
+  },
+  "name": "Jarra Sangría",
+  "categoryId": {
+    "$oid": "Bar"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1701970325/top24/wdxojhnd4w2gucehwzjf.jpg"
+  ],
+  "price": 58000,
+  "description": "Jarra de sangría clásica",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c2ba81a530f2be2aaff1"
+  },
+  "name": "Aperol Spritz",
+  "categoryId": {
+    "$oid": "Bar"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1701970325/top24/wdxojhnd4w2gucehwzjf.jpg"
+  ],
+  "price": 58000,
+  "description": "Cóctel a base de Aperol, espumoso y naranja",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c2ba81a530f2be2aaff1"
+  },
+  "name": "Vinos de la Casa",
+  "categoryId": {
+    "$oid": "Bar"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1701970325/top24/wdxojhnd4w2gucehwzjf.jpg"
+  ],
+  "price": 80000,
+  "description": "Variedad de vinos para todos los gustos (precio variable)",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "__v": 0
+}
+]

@@ -73,7 +73,7 @@
     "$oid": "Cocina"
   },
   "image": [
-    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1699272108/12._LomoChampi_ufkvce.jpg"
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1742742730/lomo_champi_kovz3u.jpg"
   ],
   "price": 75000,
   "description": "Cortes de lomo fino sellados en la parrilla, término a su gusto, bañados en salsa de la casa a base de champiñones, acompañado de papa en casco y ensalada de la casa.",
@@ -98,7 +98,7 @@
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694951466/1._cuchuco_lutbwh.jpg"
   ],
   "price": 39900,
-  "description": "A base de trigo y vegetales, acompañado de arroz, aguacate y espinazo de cerdo",
+  "description": "A base de trigo y vegetales, acompañado de arroz, aguacate y espinazo de cerdo (Disponible sólo los viernes)",
   "location": "sexta",
   "createdAt": {
     "$date": "2023-09-10T15:07:28.629Z"
@@ -303,7 +303,7 @@
     "$date": "2023-09-07T14:48:47.289Z"
   },
   "__v": 0,
-  "description": "Sopa a base de maíz porba, vegetales y carnes. Acompañada de 300gr de costilla de res y mazorca",
+  "description": "Sopa a base de maíz porba, vegetales y carnes. Acompañada de 300gr de costilla de res y mazorca (disponible martes, miércoles, sábado y domingo)",
   "location": "both"
 },
 {
@@ -359,7 +359,7 @@
     "$oid": "Parrilla"
   },
   "image": [
-    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694785883/9._Punta_oemie1.jpg"
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1742742730/PUNTA_ANCA_xvocpe.jpg"
   ],
   "price": 84000,
   "description": "Carne madurada en corte mariposa, acompañado de yuca, papa, plátano y arepa boyacense",
@@ -425,7 +425,7 @@
     "$oid": "Horno"
   },
   "image": [
-    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694784873/5._Cerdo_xjluy1.jpg"
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1742743168/CERDO_lefs4a.jpg"
   ],
   "price": 84000,
   "description": "Chuletas de cerdo doradas al horno, acompañado de papa, yuca, plátano y arepa boyacense",
@@ -865,7 +865,7 @@
     "$oid": "Sopas"
   },
   "image": [
-    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694188183/IMG_4394_1_hqrjuc_lldduw.webp"
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1742742531/MUTE_fnrpoz.jpg"
   ],
   "price": 39900,
   "createdAt": {
@@ -875,7 +875,7 @@
     "$date": "2023-09-07T14:52:48.744Z"
   },
   "__v": 0,
-  "description": "Acopañado de arroz blanco, aguacate, mazorca y arepa (sólo jueves)",
+  "description": "Acompañado de arroz blanco, aguacate, mazorca y arepa (disponible sólo jueves)",
   "location": "sexta"
 },
 {
@@ -887,7 +887,7 @@
     "$oid": "Sopas"
   },
   "image": [
-    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358219/1._media_ugmw1j_ketuvr.jpg"
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1742742430/Media_Sopa_uy6xpw.jpg"
   ],
   "price": 11500,
   "description": "Taza personal de cualquiera de nuestras sopas",
@@ -1573,6 +1573,50 @@
   ],
   "price": 80000,
   "description": "Variedad de vinos para todos los gustos (precio variable)",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c2ba81a530f2be2aaff1"
+  },
+  "name": "Salmón a la Parrilla",
+  "categoryId": {
+    "$oid": "Parrilla"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1742742729/SALMON_nq3izp.jpg"
+  ],
+  "price": 53000,
+  "description": "Salmón a la parrilla acompañado de chips de arracacha y ensalada balsámica",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T19:57:46.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500c2ba81a530f2be2aaff1"
+  },
+  "name": "Porterhouse Steak",
+  "categoryId": {
+    "$oid": "Parrilla"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1742742731/PORTER_dt78wa.jpg"
+  ],
+  "price": 71400,
+  "description": "Corte americano madurado que contiene dos de las mas finas carnes: lomo fino y lomo ancho unidos por el hueso de aguja, acompañado de papas en casco y ensalda de la casa",
   "location": "both",
   "createdAt": {
     "$date": "2023-09-12T19:57:46.295Z"

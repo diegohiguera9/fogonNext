@@ -1,48 +1,44 @@
-import Image from "next/image";
+import Link from "next/link";
 
-export default function Menu() {
+export default function General() {
   return (
-    <>
-      <div className="p-8">
-        <p className="text-lg font-bold">
-          Bienvendio al menú digital de El Fogon Llanero
-        </p>
-        <p className="text-base">
-          Por favor selecciona alguna de las categorias de la parte superior
-          para ver los productos de cada una.
-        </p>
-        <p className="text-md font-bold">
-          Manejamos platos para compartir y platos personales, preguntale a tu
-          mesero más detalles de cada plato
-        </p>
-        <br />
-        <p className="text-xl font-bold">Información complementaria</p>
-        <p className="text-lg font-bold">Terminos de la carne:</p>
-        <div className="flex flex-col justify-start w-10/12 mb-4">
-          <Image
-            className="relative object-contain"
-            src="/terminos.webp"
-            alt="Cortes carne"
-            sizes="100vw"
-            width={500}
-            height={500}
-            priority
-          />
-        </div>
-        <br />
-        <p className="text-lg font-bold">Ubicación de los cortes:</p>
-        <div className="flex flex-col justify-start w-10/12 aspect-square mb-4">
-          <Image
-            className="relative object-contain"
-            src="https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694013050/cortesCarne_ryinkj.webp"
-            alt="Cortes carne"
-            sizes="100vw"
-            width={500}
-            height={500}
-            priority
-          />
-        </div>
+    <div className="min-h-screen w-full bg-red-300/30 px-4 py-14 lg:py-20 flex flex-col justify-center items-center">
+      <p className="text-xl font-bold mb-4">
+        Por favor selecciona la sede de tu interés
+      </p>
+      <div className="flex flex-col max-w-lg md:flex-row mb-8 rounded-lg backdrop-blur-xl backdrop-brightness-150 z-10">
+        <Link
+          href="/menu/sexta"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+          rel="noopener noreferrer"
+        >
+          <h2 className={`mb-3 text-2xl font-semibold`}>
+            Calle Sexta{" "}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+            Sede ubicada en el barrio Ricaurte, calle 6#26-99
+          </p>
+        </Link>
+
+        <a
+          href="/menu.pdf"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800 hover:dark:bg-opacity-30"
+          rel="noopener noreferrer"
+        >
+          <h2 className={`mb-3 text-2xl font-semibold`}>
+            Gran Estación{" "}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+            Sede ubicada en el CC Gran Estación
+          </p>
+        </a>
       </div>
-    </>
+    </div>
   );
 }

@@ -1232,6 +1232,50 @@
 },
 {
   "_id": {
+    "$oid": "64fde1182d11dd33d809803a"
+  },
+  "name": "Churrasco Personal (500gr)",
+  "categoryId": {
+    "$oid": "Parrilla"
+  },
+  "image": [
+    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694785883/3._Churrasco_oggons.jpg"
+  ],
+  "price": 89000,
+  "description": "Lomo ancho madurado en corte mariposa, acompañado de papa, plátano y arepa boyacense",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:30:32.771Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:30:32.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fde1182d11dd33d809803a"
+  },
+  "name": "Asado de Vacio (300gr)",
+  "categoryId": {
+    "$oid": "Parrilla"
+  },
+  "image": [
+    "https://res.cloudinary.com/drqmzeb8s/image/upload/v1754576082/WhatsApp_Image_2025-08-07_at_9.05.37_AM_fa3cpk.jpg"
+  ],
+  "price": 39000,
+  "description": "Cortes de la parte lateral entre la costilla y la cadera, acompañado de papa en casco y ensalada",
+  "location": "both",
+  "createdAt": {
+    "$date": "2023-09-10T15:30:32.771Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-10T15:30:32.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
     "$oid": "64fde49d503b1da1f8be2618"
   },
   "name": "Pechuga en salsa de champiñones (500gr)",

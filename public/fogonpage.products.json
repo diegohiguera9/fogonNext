@@ -9,7 +9,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694708127/12._Baby_rjsagd.jpg"
   ],
-  "price": 70000,
+  "price": 78500,
   "description": "Corte argention de lomo fino, acompañado de papa en casco y ensalada de la casa (lechuga crespa, tomate, alverja, queso campesino, maíz tierno, aguacate y vinagreta",
   "location": "both",
   "createdAt": {
@@ -17,28 +17,6 @@
   },
   "updatedAt": {
     "$date": "2023-09-10T15:35:10.309Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "6501a31626106f5e5c342b0a"
-  },
-  "name": "Porción yuca frita",
-  "categoryId": {
-    "$oid": "Adicionales"
-  },
-  "image": [
-    "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694779625/21._YF_lrcilm.jpg"
-  ],
-  "price": 9500,
-  "description": "Yuca frita",
-  "location": "both",
-  "createdAt": {
-    "$date": "2023-09-13T11:55:02.541Z"
-  },
-  "updatedAt": {
-    "$date": "2023-09-13T11:55:02.541Z"
   },
   "__v": 0
 },
@@ -53,7 +31,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1742743476/PIMIENTA_jbpx96.jpg"
   ],
-  "price": 75000,
+  "price": 82000,
   "description": "Cortes de lomo fino sellados en la parrilla, término a su gusto, bañados en salsa de la casa a base de pimienta, acompañado de papa en casco y ensalada de la casa.",
   "location": "both",
   "createdAt": {
@@ -75,7 +53,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1742742730/lomo_champi_kovz3u.jpg"
   ],
-  "price": 75000,
+  "price": 82000,
   "description": "Cortes de lomo fino sellados en la parrilla, término a su gusto, bañados en salsa de la casa a base de champiñones, acompañado de papa en casco y ensalada de la casa.",
   "location": "both",
   "createdAt": {
@@ -97,7 +75,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694951466/1._cuchuco_lutbwh.jpg"
   ],
-  "price": 39900,
+  "price": 44000,
   "description": "A base de trigo y vegetales, acompañado de arroz, aguacate y espinazo de cerdo (Disponible sólo los viernes)",
   "location": "sexta",
   "createdAt": {
@@ -119,7 +97,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694605824/20._yuca_dwk1bj.jpg"
   ],
-  "price": 5300,
+  "price": 6000,
   "description": "Yuca al vapor",
   "location": "both",
   "createdAt": {
@@ -141,7 +119,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358225/21._limonada_umpw8z.jpg"
   ],
-  "price": 6000,
+  "price": 6600,
   "description": "Clásica limonada natural",
   "location": "both",
   "createdAt": {
@@ -163,7 +141,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694606417/20._ensalada_vyzirl.jpg"
   ],
-  "price": 12600,
+  "price": 13800,
   "description": "Lechuga crespa, tomate, alverja, maíz tierno, aguacate, queso y vinagreta",
   "location": "both",
   "createdAt": {
@@ -185,7 +163,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1696775165/16_Bife_kn2hkj.jpg"
   ],
-  "price": 70000,
+  "price": 78500,
   "description": "Corte argentino de lomo ancho, acompañado de papa en casco y ensalada de la casa (lechuga crespa, tomate, alverja, queso campesino, maíz tierno, aguacate y vinagreta",
   "location": "both",
   "createdAt": {
@@ -207,7 +185,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694708112/4._fogon_jx7noc.jpg"
   ],
-  "price": 65000,
+  "price": 72000,
   "description": "Plato combinado con nuestras carnes a la parrilla: Churrasco, Pechuga y Chuleta, acompañado de papa, plátano y arepa boyacense",
   "location": "both",
   "createdAt": {
@@ -229,7 +207,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694708127/21_Guacamole_twp35n.jpg"
   ],
-  "price": 4000,
+  "price": 4600,
   "description": "Guacamole de la casa",
   "location": "both",
   "createdAt": {
@@ -273,7 +251,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358223/20._papa_ckysa6.webp"
   ],
-  "price": 5500,
+  "price": 6000,
   "description": "Papa salada",
   "location": "both",
   "createdAt": {
@@ -295,7 +273,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694188364/IMG_3996_1_wbnzdf_rgnwfy.webp"
   ],
-  "price": 39900,
+  "price": 44000,
   "createdAt": {
     "$date": "2023-09-07T14:48:47.289Z"
   },
@@ -317,7 +295,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358224/21._guanabana_x0fqxd.jpg"
   ],
-  "price": 9500,
+  "price": 10500,
   "description": "Guanabana en leche",
   "location": "both",
   "createdAt": {
@@ -339,7 +317,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694785884/17._Tbone_dj7vj3.jpg"
   ],
-  "price": 84000,
+  "price": 95000,
   "description": "Corte americano madurado que contiene dos de las mas finas carnes: lomo fino y lomo ancho unidos por el hueso de aguja, acompañado de yuca, papa, plátano y arepa boyacense",
   "location": "both",
   "createdAt": {
@@ -361,7 +339,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1742742730/PUNTA_ANCA_xvocpe.jpg"
   ],
-  "price": 89000,
+  "price": 105000,
   "description": "Carne madurada en corte mariposa, acompañado de yuca, papa, plátano y arepa boyacense",
   "location": "both",
   "createdAt": {
@@ -383,7 +361,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694188364/IMG_3996_1_wbnzdf_rgnwfy.webp"
   ],
-  "price": 20000,
+  "price": 22000,
   "description": "Porción de costilla de res de la sopa",
   "location": "both",
   "createdAt": {
@@ -405,7 +383,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1742743542/COLA_spltj9.jpg"
   ],
-  "price": 68000,
+  "price": 75000,
   "description": "Nudos de cola de res bañados en deliciosa salsa alcaparrada de la casa, acompañados de papa al vapor, yuca y arroz",
   "location": "both",
   "createdAt": {
@@ -427,7 +405,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1742743168/CERDO_lefs4a.jpg"
   ],
-  "price": 89000,
+  "price": 95000,
   "description": "Chuletas de cerdo doradas al horno, acompañado de papa, yuca, plátano y arepa boyacense",
   "location": "both",
   "createdAt": {
@@ -449,7 +427,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694951466/4._Parrillla_q7kcn6.jpg"
   ],
-  "price": 89000,
+  "price": 95000,
   "description": "Plato combinado con nuestras carnes a la parrilla: Churrasco, Pechuga y Chuleta, acompañado de yuca, papa, plátano y arepa boyacense",
   "location": "both",
   "createdAt": {
@@ -471,7 +449,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1668523319/top24/rxrvt9kq8owgbjghsxjx.webp"
   ],
-  "price": 5500,
+  "price": 6000,
   "description": "Coca cola o Colombiana",
   "location": "both",
   "createdAt": {
@@ -493,7 +471,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358224/21._cremamora_szgmpv.webp"
   ],
-  "price": 9500,
+  "price": 10500,
   "description": "Mora en leche",
   "location": "both",
   "createdAt": {
@@ -515,7 +493,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358224/21._coco_dtnaxh.webp"
   ],
-  "price": 10000,
+  "price": 11500,
   "description": "Limonada a base de coco natural",
   "location": "both",
   "createdAt": {
@@ -537,7 +515,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694606023/20._Casco_r6ipeq.jpg"
   ],
-  "price": 9500,
+  "price": 10500,
   "description": "Papas en casco fritas",
   "location": "both",
   "createdAt": {
@@ -559,7 +537,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358226/21._maracuya_uwh4uc.webp"
   ],
-  "price": 9500,
+  "price": 10500,
   "description": "Maracuyá en agua",
   "location": "both",
   "createdAt": {
@@ -581,7 +559,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694784873/7._Cordero_zlbnis.jpg"
   ],
-  "price": 89000,
+  "price": 95000,
   "description": "Chuletas de cordero doradas al horno, acompañadas de yuca, papa, plátano y arepa",
   "location": "both",
   "createdAt": {
@@ -603,7 +581,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1676376740/top24/Botella-de-Agua_dveij8.jpg"
   ],
-  "price": 4700,
+  "price": 5500,
   "description": "Agua cristal botella",
   "location": "both",
   "createdAt": {
@@ -625,7 +603,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358220/11._truchap_mtp2so_zsdqix.webp"
   ],
-  "price": 50000,
+  "price": 55000,
   "description": "Al papillote envuelta en hoja de plátano puesta a la parrilla, acompañada de papas en casco y ensalada de la casa",
   "location": "both",
   "createdAt": {
@@ -647,7 +625,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1699272108/5._Costillas_BBQ_evv6ha.jpg"
   ],
-  "price": 39000,
+  "price": 43000,
   "description": "Costillas de cerdo horneadas, terminadas en parrilla al carbón, bañadas en nuestra clásica salsa bbq, con un ligero toque de panela, acompañadas con ensalada de la casa y papitas en casco.",
   "location": "both",
   "createdAt": {
@@ -669,7 +647,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694605824/4._medioP_yeaj3e.jpg"
   ],
-  "price": 49000,
+  "price": 54000,
   "description": "Plato combinado a su gusto con dos de nuestras carnes de parrilla, acompañados de papa, plátano y arepa boyacense",
   "location": "both",
   "createdAt": {
@@ -691,7 +669,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358226/21._mora_arggka.webp"
   ],
-  "price": 8500,
+  "price": 9400,
   "description": "Fresa en agua",
   "location": "both",
   "createdAt": {
@@ -713,7 +691,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694776367/16._RB_tnh3ry.jpg"
   ],
-  "price": 39000,
+  "price": 43000,
   "description": "Filete de res madurado extraido de la parte superior del lomo ancho a la altura de la sexta costilla, de ahí su nombre, ojo de costilla, acompañado de papa en casco y ensalada de la casa",
   "location": "both",
   "createdAt": {
@@ -735,7 +713,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694548622/22._DulcePap_zdqd8a.jpg"
   ],
-  "price": 9500,
+  "price": 10500,
   "description": "Queso campesino bañado en dulce de papayuela de la casa",
   "location": "both",
   "createdAt": {
@@ -757,7 +735,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694776367/4._Horno_xktou1.jpg"
   ],
-  "price": 89000,
+  "price": 95000,
   "description": "Plato combinado con nuestras carnes al horno, Cerdo, Cordero, Costilla de Res y Sobrebarriga, acompañado de papa, yuca, plátano y arepa boyacense",
   "location": "both",
   "createdAt": {
@@ -779,7 +757,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358226/21._fresa_ph1qza_dbzkbq.jpg"
   ],
-  "price": 8500,
+  "price": 9400,
   "description": "Mora en agua",
   "location": "both",
   "createdAt": {
@@ -801,7 +779,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694548752/helados_jqewao.webp"
   ],
-  "price": 8700,
+  "price": 10500,
   "description": "Clásicos helados colombianos en variedad de sabores",
   "location": "both",
   "createdAt": {
@@ -823,7 +801,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694776367/4._MedioH_dmbekp.jpg"
   ],
-  "price": 49000,
+  "price": 54000,
   "description": "Plato combinado a su gusto con dos de nuestras carnes al horno, acompañado de papa, plátano y arepa boyacense",
   "location": "both",
   "createdAt": {
@@ -845,7 +823,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358224/21._guanabana_x0fqxd.jpg"
   ],
-  "price": 8500,
+  "price": 9400,
   "description": "Guanabana en agua",
   "location": "both",
   "createdAt": {
@@ -867,7 +845,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1742742531/MUTE_fnrpoz.jpg"
   ],
-  "price": 39900,
+  "price": 44000,
   "createdAt": {
     "$date": "2023-09-07T14:52:48.744Z"
   },
@@ -889,7 +867,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1742742430/Media_Sopa_uy6xpw.jpg"
   ],
-  "price": 11500,
+  "price": 13000,
   "description": "Taza personal de cualquiera de nuestras sopas",
   "location": "both",
   "createdAt": {
@@ -911,7 +889,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358224/20._arepa_rwzjnu_dqeuwl.webp"
   ],
-  "price": 3700,
+  "price": 4200,
   "description": "Arepa boyacense artesanal",
   "location": "both",
   "createdAt": {
@@ -933,7 +911,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358224/21._cremafresa_b7yuke.webp"
   ],
-  "price": 9500,
+  "price": 10500,
   "description": "Fresa en leche",
   "location": "both",
   "createdAt": {
@@ -955,7 +933,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1676377485/top24/BOTELLA-550PX_gznuwb.png"
   ],
-  "price": 6300,
+  "price": 7000,
   "description": "Poker, aguila, aguila light",
   "location": "both",
   "createdAt": {
@@ -977,7 +955,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358220/10._lengua_ufefcu_wzaalw.webp"
   ],
-  "price": 68000,
+  "price": 75000,
   "description": "Filetes de lengua bañados en deliciosa salsa alcaparrada de la casa, acompañados de papa al vapor, yuca y arroz",
   "location": "both",
   "createdAt": {
@@ -999,7 +977,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694776367/18._Doble_hw74yn.jpg"
   ],
-  "price": 36500,
+  "price": 41000,
   "description": "A base de Punta de Anca, con vegetales, queso y salsas, acompañada de papa en casco y limonada natural o gaseosa",
   "location": "both",
   "createdAt": {
@@ -1021,7 +999,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694784873/8._Sobrebarriga_m6a58k.jpg"
   ],
-  "price": 89000,
+  "price": 95000,
   "description": "Sobrebarriga delgada (matambre argentino) doradas al horno, acompañadas de papa, yuca, plátano y arepa boyacense",
   "location": "both",
   "createdAt": {
@@ -1043,7 +1021,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694951466/18._Sencilla_g8vy4k.jpg"
   ],
-  "price": 26500,
+  "price": 28500,
   "description": "A base de Punta de Anca, con vegetales, queso y salsas, acompañada de papa en casco y limonada natural o gaseosa",
   "location": "both",
   "createdAt": {
@@ -1065,7 +1043,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358224/20._pz_tyxdzn.jpg"
   ],
-  "price": 4200,
+  "price": 4600,
   "description": "Arroz blanco acompañado de plátano maduro",
   "location": "both",
   "createdAt": {
@@ -1087,7 +1065,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694784874/6._Costilla_xxltxc.jpg"
   ],
-  "price": 89000,
+  "price": 95000,
   "description": "Costillas de Res doradas al horno, acompañado de papa, yuca, plátano y arepa boyacense",
   "location": "both",
   "createdAt": {
@@ -1109,7 +1087,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358222/14._frijol_bmh93j_beer9t.webp"
   ],
-  "price": 29000,
+  "price": 33000,
   "description": "Exquisita receta de la casa acompañada de arroz, plátano, arepa, aguacate, pezuña de cerdo y chicharrón (de martes a viernes)",
   "location": "both",
   "createdAt": {
@@ -1131,7 +1109,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1676377529/top24/sku-home-dorada_gneq27.jpg"
   ],
-  "price": 7600,
+  "price": 8500,
   "description": "Club colombia Dorada",
   "location": "both",
   "createdAt": {
@@ -1153,7 +1131,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358224/20._mazorca_kw98wx_jldnxj.webp"
   ],
-  "price": 5500,
+  "price": 6500,
   "description": "Porción de mazorca de la sopa",
   "location": "both",
   "createdAt": {
@@ -1175,7 +1153,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1673918696/top24/qp5pbcvb20nqz9doj8u5.jpg"
   ],
-  "price": 5300,
+  "price": 6000,
   "description": "Plátano maduro frito",
   "location": "both",
   "createdAt": {
@@ -1197,7 +1175,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694358226/21._maracuya_uwh4uc.webp"
   ],
-  "price": 10500,
+  "price": 11600,
   "description": "Maracuyá en leche",
   "location": "both",
   "createdAt": {
@@ -1219,7 +1197,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694785883/3._Churrasco_oggons.jpg"
   ],
-  "price": 89000,
+  "price": 105000,
   "description": "Lomo ancho madurado en corte mariposa, acompañado de yuca, papa, plátano y arepa boyacense",
   "location": "both",
   "createdAt": {
@@ -1241,7 +1219,7 @@
   "image": [
     "https://res.cloudinary.com/drqmzeb8s/image/upload/v1754578275/WhatsApp_Image_2025-08-07_at_9.26.03_AM_zqoibr.jpg"
   ],
-  "price": 55000,
+  "price": 59500,
   "description": "Lomo ancho madurado en corte mariposa, acompañado de papa, plátano y arepa boyacense",
   "location": "both",
   "createdAt": {
@@ -1263,7 +1241,7 @@
   "image": [
     "https://res.cloudinary.com/drqmzeb8s/image/upload/v1754576082/WhatsApp_Image_2025-08-07_at_9.05.37_AM_fa3cpk.jpg"
   ],
-  "price": 39000,
+  "price": 43000,
   "description": "Cortes de la parte lateral entre la costilla y la cadera, acompañado de papa en casco y ensalada",
   "location": "both",
   "createdAt": {
@@ -1285,7 +1263,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1742743702/PECHUGA_CHAMPI%C3%91ON_hvqbft.jpg"
   ],
-  "price": 62000,
+  "price": 63000,
   "description": "Filete de pechuga de pollo, bañado en salsa de la casa a base de champiñones, acompañado de papa en casco y ensalada de la casa.",
   "location": "both",
   "createdAt": {
@@ -1307,7 +1285,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1694548622/22._DulceMor_s7k920.jpg"
   ],
-  "price": 7500,
+  "price": 8500,
   "description": "Queso campesino bañado en dulce de mora de la casa",
   "location": "both",
   "createdAt": {
@@ -1351,7 +1329,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1676376882/top24/avocado-933060_640_grewac.jpg"
   ],
-  "price": 17000,
+  "price": 20000,
   "description": "Chicharrón de cerdo carnudo acompañado de papa salada",
   "location": "both",
   "createdAt": {
@@ -1373,7 +1351,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1676376882/top24/avocado-933060_640_grewac.jpg"
   ],
-  "price": 16800,
+  "price": 20000,
   "description": "Clásico chorizo santarrosano (2 unidades) con papa salada",
   "location": "both",
   "createdAt": {
@@ -1395,7 +1373,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1676376882/top24/avocado-933060_640_grewac.jpg"
   ],
-  "price": 16000,
+  "price": 18500,
   "description": "Crujiente plátano verde frito acompañado de hogao y guacamole",
   "location": "both",
   "createdAt": {
@@ -1417,7 +1395,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1676376882/top24/avocado-933060_640_grewac.jpg"
   ],
-  "price": 16000,
+  "price": 18500,
   "description": "Empanadas rellenas de carne acompañadas con guacamole",
   "location": "both",
   "createdAt": {
@@ -1439,7 +1417,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1687714609/top24/qjypbdcrjxhykvbqpcnh.jpg"
   ],
-  "price": 5800,
+  "price": 6500,
   "description": "Refalo tradicional (gaseosa & cerveza)",
   "location": "both",
   "createdAt": {
@@ -1461,7 +1439,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1701970325/top24/wdxojhnd4w2gucehwzjf.jpg"
   ],
-  "price": 10500,
+  "price": 12000,
   "description": "Clásica cerveza mexicana",
   "location": "both",
   "createdAt": {
@@ -1483,7 +1461,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1701970325/top24/wdxojhnd4w2gucehwzjf.jpg"
   ],
-  "price": 11500,
+  "price": 13000,
   "description": "Clásica cerveza belga",
   "location": "both",
   "createdAt": {
@@ -1505,7 +1483,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1701970325/top24/wdxojhnd4w2gucehwzjf.jpg"
   ],
-  "price": 15500,
+  "price": 17000,
   "description": "Cóctel a base de vino tinto, soda, limón y hielo",
   "location": "both",
   "createdAt": {
@@ -1527,7 +1505,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1701970325/top24/wdxojhnd4w2gucehwzjf.jpg"
   ],
-  "price": 18900,
+  "price": 21000,
   "description": "Cóctel a base de ron, soda, limón y hierbabuena",
   "location": "both",
   "createdAt": {
@@ -1549,7 +1527,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1701970325/top24/wdxojhnd4w2gucehwzjf.jpg"
   ],
-  "price": 18900,
+  "price": 21000,
   "description": "Copa de sangría clásica",
   "location": "both",
   "createdAt": {
@@ -1571,7 +1549,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1701970325/top24/wdxojhnd4w2gucehwzjf.jpg"
   ],
-  "price": 58000,
+  "price": 65000,
   "description": "Jarra de sangría clásica",
   "location": "both",
   "createdAt": {
@@ -1593,7 +1571,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1701970325/top24/wdxojhnd4w2gucehwzjf.jpg"
   ],
-  "price": 58000,
+  "price": 25000,
   "description": "Cóctel a base de Aperol, espumoso y naranja",
   "location": "both",
   "createdAt": {
@@ -1637,7 +1615,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1742742729/SALMON_nq3izp.jpg"
   ],
-  "price": 53000,
+  "price": 58500,
   "description": "Salmón a la parrilla acompañado de chips de arracacha y ensalada balsámica",
   "location": "both",
   "createdAt": {
@@ -1659,7 +1637,7 @@
   "image": [
     "https://res.cloudinary.com/dx5lqdwlg/image/upload/v1742742731/PORTER_dt78wa.jpg"
   ],
-  "price": 71400,
+  "price": 78500,
   "description": "Corte americano madurado que contiene dos de las mas finas carnes: lomo fino y lomo ancho unidos por el hueso de aguja, acompañado de papas en casco y ensalda de la casa",
   "location": "both",
   "createdAt": {
